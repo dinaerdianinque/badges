@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="badge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 341.9 329.8" style="enable-background:new 0 0 341.9 329.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st1{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{font-family:'.SFNSText-Regular';}
+	.st4{font-size:30px;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<polyline id="tail1" class="st0" points="213,189.4 213,237.5 171.4,261.5 129.7,237.5 129.7,189.4 "/>
+<polyline id="tail2" class="st0" points="225.4,146.8 225.4,209.3 171.4,240.5 117.3,209.3 117.3,146.8 "/>
+<g id="wingL">
+	<polygon id="FL1" class="st1" points="42.6,82.3 123.2,143.8 123.2,129.8 42.6,68.3 	"/>
+	<polygon id="FL2" class="st1" points="62.8,112.5 123.2,158.6 123.2,144.6 62.8,98.4 	"/>
+	<polygon id="FL3" class="st1" points="82.9,142.6 123.2,173.4 123.2,159.3 82.9,128.6 	"/>
+	<polygon id="FL4" class="st1" points="103.1,172.7 123.2,188.1 123.2,174.1 103.1,158.7 	"/>
+</g>
+<g id="wingR">
+	<polygon id="FR1" class="st1" points="300.1,82.3 219.5,143.8 219.5,129.8 300.1,68.3 	"/>
+	<polygon id="FR2" class="st1" points="279.9,112.5 219.5,158.6 219.5,144.6 279.9,98.4 	"/>
+	<polygon id="FR3" class="st1" points="259.8,142.6 219.5,173.4 219.5,159.3 259.8,128.6 	"/>
+	<polygon id="FR4" class="st1" points="239.6,172.7 219.5,188.1 219.5,174.1 239.6,158.7 	"/>
+</g>
+<path id="key" class="st2" d="M201.9,207.9h-61.4c-6.6,0-12-5.4-12-12v-61.4c0-6.6,5.4-12,12-12h61.4c6.6,0,12,5.4,12,12v61.4
+	C213.9,202.5,208.5,207.9,201.9,207.9z"/>
+<text transform="matrix(1 0 0 1 143.0106 159.6409)" class="st3 st4">D</text>
+<line id="shine" class="st5" x1="200.9" y1="122.5" x2="141.5" y2="207.9"/>
+</svg>

@@ -1,7 +1,6 @@
-# badges
+# Badges
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.14.0.
+Learning to animate some SVGs. 
 
 ## Build & development
 
