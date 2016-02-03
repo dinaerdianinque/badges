@@ -33,6 +33,8 @@ module.exports = function(config) {
       'bower_components/angular-touch/angular-touch.js',
       'bower_components/velocity/velocity.js',
       'bower_components/velocity/velocity.ui.js',
+      'bower_components/gsap/src/minified/TweenMax.min.js',
+      'bower_components/gsap/src/minified/TimelineMax.min.js',
       'bower_components/angular-mocks/angular-mocks.js',
       // endbower
       "app/scripts/**/*.js",
